@@ -113,3 +113,9 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC7odIM9m+pTppzApEXekWbSkk3pFxQJqEnxNyNdV5I
 	5、`git push origin :the_branch` //删除远程 the_branch
 	
 	6、`git push origin the_branch` //用回滚后的本地分支重新建立远程分支
+	
+##### 远程
+
+* 提交到远程服务器：`git push origin master`
+
+* 从远程服务器拉取：`git pull`
